@@ -1,0 +1,5 @@
+C:\Users\reyna\OneDrive\Escritorio\proyecto2\Ventass\Delivery\BL.Ventas\bin\Debug\BL.Ventas.dll
+C:\Users\reyna\OneDrive\Escritorio\proyecto2\Ventass\Delivery\BL.Ventas\bin\Debug\BL.Ventas.pdb
+C:\Users\reyna\OneDrive\Escritorio\proyecto2\Ventass\Delivery\BL.Ventas\obj\Debug\BL.Ventas.csprojResolveAssemblyReference.cache
+C:\Users\reyna\OneDrive\Escritorio\proyecto2\Ventass\Delivery\BL.Ventas\obj\Debug\BL.Ventas.dll
+C:\Users\reyna\OneDrive\Escritorio\proyecto2\Ventass\Delivery\BL.Ventas\obj\Debug\BL.Ventas.pdb
